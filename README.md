@@ -3,7 +3,6 @@
 python -m pip install -r requirements.txt или pip install -r requirements.txt<br>
 python main.py
 <h2>Необходимо сделать</h2>
-установить selenium<br>
 Указать login и password от аккаунта в строках 24 и 28
 <h2>После запуска</h2>
 Придет код подтвержения, просто вводим его в консоль и нажимаем Enter
