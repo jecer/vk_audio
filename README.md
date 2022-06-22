@@ -1,5 +1,6 @@
 # vk_audio | Скачать музыку из вк
 <h2>Запуск</h2>
+python -m pip install -r requirements.txt или pip install -r requirements.txt<br>
 python main.py
 <h2>Необходимо сделать</h2>
 установить selenium<br>
